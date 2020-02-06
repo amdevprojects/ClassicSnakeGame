@@ -79,7 +79,6 @@ public class MyGdxGame extends ApplicationAdapter {
 ////		System.out.println(position.x + ", " + position.y);
 //		}
 //		batch.end();
-//		System.out.println(position.x + ", " + position.y);
 
         drawSnake();
         checkCollision();
